@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ia",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "..\\..\\..\\..\\Downloads\\todo_firebase_flutter-master\\todo_firebase_flutter-master\\assets"
+		}
+	],
+	"settings": {}
+}
