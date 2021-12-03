@@ -1,4 +1,6 @@
-# ia
+# Flutter IA-2 Project : Todo List
+# Group:3 
+# Roll no: 1913035 and 2023014
 
 A new Flutter project.
 
